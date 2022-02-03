@@ -1,11 +1,224 @@
-{
-  box-sizing: border-box;
-}
-body {
-  font-size: 14px;
-}
-.v52:982 {
-  background: null;
-  width: 329px;
-  height: 47px;
-}
+/* Rectangle 1012 */
+
+
+position: absolute;
+width: 414px;
+height: 896px;
+
+background: #1F1F1F;
+
+
+/* Rectangle 636 */
+
+
+position: absolute;
+width: 329px;
+height: 47px;
+
+background: conic-gradient(from 180deg at 50% 50%, #EEFA2F 0deg, rgba(255, 29, 205, 0) 174.38deg, rgba(0, 255, 255, 0) 174.41deg, #B8ECA6 360deg);
+filter: drop-shadow(0px 0px 30px rgba(238, 250, 47, 0.2));
+border-radius: 55.5479px;
+transform: rotate(180deg);
+
+
+/* Rectangle 642 */
+
+
+position: absolute;
+width: 337px;
+height: 20px;
+
+background: linear-gradient(270deg, #FF0000 0%, #00FF19 101.48%);
+box-shadow: inset 6.89992px 6.89992px 10.3499px 6.89992px rgba(0, 0, 0, 0.2);
+border-radius: 55.5479px;
+
+
+/* Rectangle 643 */
+
+
+position: absolute;
+width: 337px;
+height: 20px;
+
+background: linear-gradient(270deg, #FFFFFF 0%, #000000 101.48%);
+box-shadow: inset 6.89992px 6.89992px 10.3499px 6.89992px rgba(0, 0, 0, 0.2);
+border-radius: 55.5479px;
+
+
+/* Rectangle 645 */
+
+
+position: absolute;
+width: 337px;
+height: 20px;
+
+background: rgba(255, 255, 255, 0.6);
+box-shadow: inset 6.89992px 6.89992px 10.3499px 6.89992px rgba(0, 0, 0, 0.2);
+border-radius: 55.5479px;
+
+
+/* Rectangle 637 */
+
+
+position: absolute;
+width: 330px;
+height: 47px;
+
+background: conic-gradient(from 180deg at 50% 50%, #B8ECA6 0deg, rgba(0, 255, 255, 0) 183.75deg, rgba(255, 29, 205, 0) 183.79deg, #EEFA2F 360deg);
+filter: drop-shadow(0px 0px 30px rgba(238, 250, 47, 0.2));
+border-radius: 55.5479px;
+transform: rotate(180deg);
+
+
+/* Rectangle 638 */
+
+
+position: absolute;
+width: 330px;
+height: 47px;
+
+background: conic-gradient(from 180deg at 50% 50%, #B8ECA6 0deg, rgba(0, 255, 255, 0) 183.75deg, rgba(255, 29, 205, 0) 183.79deg, #EEFA2F 360deg);
+filter: drop-shadow(0px 0px 30px rgba(238, 250, 47, 0.2));
+border-radius: 55.5479px;
+transform: rotate(180deg);
+
+
+/* Rectangle 639 */
+
+
+position: absolute;
+width: 330px;
+height: 47px;
+
+background: conic-gradient(from 180deg at 50% 50%, #B8ECA6 0deg, rgba(0, 255, 255, 0) 183.75deg, rgba(255, 29, 205, 0) 183.79deg, #EEFA2F 360deg);
+filter: drop-shadow(0px 0px 30px rgba(238, 250, 47, 0.2));
+border-radius: 55.5479px;
+transform: rotate(180deg);
+
+
+/* Palette */
+
+
+position: absolute;
+width: 108px;
+height: 60px;
+
+font-family: Neue Machina;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 60px;
+/* identical to box height, or 200% */
+
+
+/* WHITE */
+
+color: #FAFAFA;
+
+
+
+/* Stroke dimension */
+
+
+position: absolute;
+width: 267px;
+height: 60px;
+
+font-family: Neue Machina;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 60px;
+/* identical to box height, or 200% */
+
+
+/* WHITE */
+
+color: #FAFAFA;
+
+
+
+/* Stroke colour */
+
+
+position: absolute;
+width: 205px;
+height: 60px;
+
+font-family: Neue Machina;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 60px;
+/* identical to box height, or 200% */
+
+
+/* WHITE */
+
+color: #FAFAFA;
+
+
+
+/* Ellipse 66 */
+
+
+position: absolute;
+width: 43px;
+height: 43px;
+
+/* YELLOW/GREEN */
+
+background: #FBFF2F;
+box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.8);
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* Ellipse 68 */
+
+
+position: absolute;
+width: 43px;
+height: 43px;
+
+/* YELLOW/GREEN */
+
+background: #FBFF2F;
+box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.8);
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* Ellipse 67 */
+
+
+position: absolute;
+width: 43px;
+height: 43px;
+
+/* YELLOW/GREEN */
+
+background: #FBFF2F;
+box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.8);
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+/* Button */
+
+
+position: relative;
+width: 165px;
+height: 57px;
+
+
+
+/* Button */
+
+
+position: relative;
+width: 165px;
+height: 57px;
